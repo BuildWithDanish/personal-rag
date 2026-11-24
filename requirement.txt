@@ -1,0 +1,22 @@
+# LangChain core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Ollama (local LLM + embeddings) aur vector DB
+langchain-ollama
+langchain-chroma
+chromadb
+
+# Document loaders
+pypdf
+unstructured
+python-docx
+
+# UI
+streamlit
+
+# Utilities
+python-dotenv
+tqdm
